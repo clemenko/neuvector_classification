@@ -3,16 +3,21 @@ title: New Neuvector Classification Support
 author: Andy Clemenko, @clemenko, andy.clemenko@ranchergovernment.com
 ---
 
-# Main Title
+# New Neuvector Classification Support
+
+![banner](img/neuvector.jpg)
 
 Recently the Neuvector team released Neuvector version 5.2. This new feature added some much needed features for our Government customers. This post will walk through those features and how implement them.
 
 ---
 
 > **Table of Contents**:
-> * [Whoami](#whoami)
-> * [Prerequisites](#prerequisites)
-> * [Conclusion](#conclusion)
+> * [New Neuvector Classification Support](#new-neuvector-classification-support)
+>   * [What is New?](#what-is-new)
+>     * [Customizable Login Banner](#customizable-login-banner)
+>     * [Customizable UI Header/Footer](#customizable-ui-headerfooter)
+>   * [Helm You Say?](#helm-you-say)
+>   * [Conclusion](#conclusion)
 
 ---
 
