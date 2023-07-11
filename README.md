@@ -12,6 +12,7 @@ Recently the Neuvector team released Neuvector version 5.2. This new feature add
 ---
 
 > **Table of Contents**:
+>
 > * [New Neuvector Classification Support](#new-neuvector-classification-support)
 >   * [What is New?](#what-is-new)
 >     * [Customizable Login Banner](#customizable-login-banner)
@@ -126,4 +127,8 @@ Wait a minute for everything to load and navigate to the web page.
 
 ## Conclusion
 
+As you can see, we can easily add the Classification and Control markings for Neuvector. Once your Helm chart is updated we can apply the new banners to you current and future deployments of Neuvector.
 
+### Disclaimer
+
+“This publication was prepared or accomplished by the author in a personal capacity. All opinions expressed by the author of this publication are solely their current opinions and do not reflect the opinions of Rancher Federal, Inc., respective parent companies, or affiliates with which the author is affiliated. The author's opinions are based upon information they consider reliable, but neither Rancher Federal, Inc., nor its affiliates, nor the companies with which the author is affiliated, warrant its completeness or accuracy, and it should not be relied upon as such.”
