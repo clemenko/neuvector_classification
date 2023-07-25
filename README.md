@@ -24,7 +24,7 @@ Recently the Neuvector team released Neuvector version 5.2. This new feature add
 
 ## What is New?
 
-As with most releases, there are many new features in [Neuvector 5.2](https://github.com/neuvector/neuvector/releases/tag/v5.2.0). There are two specifically that interest our costomers, Customizable login banner and Customizable UI header text. Lets look at them individually. 
+As with most releases, there are many new features in [Neuvector 5.2](https://github.com/neuvector/neuvector/releases/tag/v5.2.0). There are two specifically that interest our customers, Customizable login banner and Customizable UI header text. Lets look at them individually.
 
 ### Customizable Login Banner
 
@@ -66,7 +66,7 @@ Now we start to actually implement the banners.
 
 ## Helm You Say?
 
-Please keep in mind that this is subject to change. Currently we need update our [Helm](https://helm.sh/) chart for [Neuvector](https://github.com/neuvector/neuvector-helm/tree/master/charts/core). Please don't forget the update the local chart first.
+Please keep in mind that this is subject to change. Currently we need to update our [Helm](https://helm.sh/) chart for [Neuvector](https://github.com/neuvector/neuvector-helm/tree/master/charts/core). Please don't forget the update the local chart first.
 
 ```bash
 helm repo update
@@ -114,7 +114,7 @@ manager:
     type: ClusterIP # for better application exposure
 ```
 
-Now that we have the `values.yaml` all set we can simply `helm apply`.
+Now that we have the `values.yaml` all set we can simply `helm upgrade -i`.
 
 ```bash
 # run in same directory with the values.yaml
